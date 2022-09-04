@@ -1,0 +1,158 @@
+{
+    "TargetList": [
+        {
+            "Name": "Producto 1",
+            "FloorNumber": 0,
+            "Position": {
+                "x": -1,
+                "y": 14.932,
+                "z": -1.4
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "Name": "Producto 2",
+            "FloorNumber": 0,
+            "Position": {
+                "x": 3.25,
+                "y": 14.932,
+                "z": -1.85
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "Name": "Producto 3",
+            "FloorNumber": 0,
+            "Position": {
+                "x": 1.85,
+                "y": 14.932,
+                "z": 3.5
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "Name": "Salon",
+            "FloorNumber": 0,
+            "Position": {
+                "x": 3.25,
+                "y": 14.932,
+                "z": -1.85
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "Name": "Cocina",
+            "FloorNumber": 0,
+            "Position": {
+                "x": 1.85,
+                "y": 14.932,
+                "z": 3.5
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "Name": "Despacho",
+            "FloorNumber": 0,
+            "Position": {
+                "x": -1,
+                "y": 14.932,
+                "z": -1.4
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "Name": "Inicio",
+            "FloorNumber": 0,
+            "Position": {
+                "x": -6.59,
+                "y": 15.932,
+                "z": 3.85
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "Name": "ServicioR",
+            "FloorNumber": 1,
+            "Position": {
+                "x": -6,
+                "y": 14.932,
+                "z": 0.47
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "Name": "ServicioA",
+            "FloorNumber": 1,
+            "Position": {
+                "x": -1.5,
+                "y": 14.932,
+                "z": 2.15
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "Name": "Dormitorio",
+            "FloorNumber": 1,
+            "Position": {
+                "x": -5.51,
+                "y": 14.932,
+                "z": -1.75
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        },
+        {
+            "Name": "Segundo_Inicio",
+            "FloorNumber": 1,
+            "Position": {
+                "x": -6.05,
+                "y": 15.932,
+                "z": 3.85
+            },
+            "Rotation": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0
+            }
+        }
+    ]
+}
